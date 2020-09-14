@@ -1,0 +1,13 @@
+body {
+    background-color: #aec6cf;
+}
+
+.floatLeft {
+    float: left;
+    border-style: solid;
+}
+
+.floatRight {
+    float: right;
+    border-style: solid;
+}
