@@ -5,9 +5,11 @@ body {
 .floatLeft {
     float: left;
     border-style: solid;
+    margin-right: 10px;
 }
 
 .floatRight {
     float: right;
     border-style: solid;
+    margin-left: 10px;
 }
